@@ -1,0 +1,11 @@
+.FormikForm {
+  min-height: 40%;
+  min-width: 40%;
+  background-color: azure;
+  border-radius: 10px;
+  padding: 90px;
+}
+
+.checkboxError {
+  color: "red";
+}
